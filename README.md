@@ -9,24 +9,21 @@
    - Pedro Araújo Sousa
    - Pedro Nunes Santos
 
-🚧  Em construção...  🚧
-
 ## Templates Figma
   https://www.figma.com/file/N7sSympkx814PYJeesqv4J/Untitled?node-id=0%3A1
  
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * * abc
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
+   
+   
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+      * NetBeans IDE
+      * MySQL 5.7.36
+      * JDK 1.7 ou maior
+      * Para rodar em linha de comando existe um README no diretório dist.
+
 <!--te-->
