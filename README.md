@@ -15,7 +15,6 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Tabela de Conteudo](#tabela-de-conteudo)   
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * NetBeans IDE
